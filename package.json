@@ -1,0 +1,19 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "tp3 computacion en la nube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "garcialautaro"
+  },
+  "author": "Lautaro Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.766.0",
+    "uniqid": "^5.2.0"
+  }
+}
